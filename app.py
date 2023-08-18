@@ -19,4 +19,5 @@ def transcribe_audio(audio_file_path):
 # Exemplo de uso:
 audio_file_path = "./teste.wav"
 transcription = transcribe_audio(audio_file_path)
+print("A transcrever aguarde...")
 print(transcription)
